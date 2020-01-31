@@ -1,0 +1,2 @@
+# EZi
+GitHub Pages
