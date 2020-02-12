@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EZiOffice.WF2",
-    "currentPage": "SP.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -327,7 +327,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "DotNet Framework based tool<br>Microsoft Visio as WF modeling<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"http://softezi.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a>  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CxezF\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/YCmav\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-website-theme mbr-iconfont mbr-iconfont-btn\"></span>New UI</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a>  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CxezF\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/YCmav\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-website-theme mbr-iconfont mbr-iconfont-btn\"></span>New UI</a>",
                 "overlayOpacity": "0.8",
                 "overlayColor": "#073b4c"
               },
@@ -342,7 +342,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "EZi Workflow Engine <br>Sharepoint Add-in",
+                "title": "EZi Workflow Engine <br>SharePoint Add-in",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
@@ -365,7 +365,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "-EZi is Independent of modeling languages.<br>-MS Visio supports all you need (BPMN, UML, EPC, ...).",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"http://softezi.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CecWl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CecWl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a>",
                 "overlayOpacity": "0.9",
                 "overlayColor": "#021703"
               },
@@ -384,7 +384,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "- Extend your workflow steps (Activities) easily<br>- Develop your workflow steps (Activities) in C#",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"http://softezi.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CecWl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\"></span>More Info</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.aparat.com/v/CecWl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a>",
                 "overlayOpacity": "0.9"
               },
               {
